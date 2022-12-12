@@ -140,14 +140,6 @@ $ git commit -m "[BOJ] N-Queen / 골드5 / 1시간" -m "https://www.acmicpc.net/
 
 | 날짜            | 기출 유형                                                    | 문제명                                                       | 난이도                                   | 풀이여부 |
 | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------- | -------- |
-| 2022년 4월 27일 | 2022 KAKAO BLIND RECRUITMENT                                 | k진수에서 소수 개수 구하기<br />양과 늑대<br />주차 요금 계산 | Lv.2<br />Lv.3<br />Lv.2                 | ✅        |
-| 2022년 4월 30일 | SW Expert Academy                                            | [모의 SW 역량테스트 해설] 보호 필름<br />[모의 SW 역량테스트] 등산로 조성<br />[모의 SW 역량테스트] 벽돌 깨기 |                                          | ✅        |
-| 2022년 5월 4일  | 2022 KAKAO BLIND RECRUITMENT                                 | 양궁대회<br />파괴되지 않은 건물                             | Lv.2<br />Lv.3                           | ✅        |
-| 2022년 5월 7일  | 2022 KAKAO BLIND RECRUITMENT<br />2021 Dev-Matching: 웹 백엔드 개발자(상반기) | 사라지는 발판<br />행렬 테두리 회전하기                      | Lv.3<br />Lv.2                           | ✅        |
-| 2022년 5월 11일 | 2021 Dev-Matching: 웹 백엔드 개발자(상반기)                  | 로또의 최고 순위와 최저 순위<br />다단계 칫솔 판매<br />헤비 유저가 소유한 장소 | Lv.1<br />Lv.3<br />Lv.3                 | ✅        |
-| 2022년 5월 14일 | 2021 KAKAO BLIND RECRUITMENT                                 | 신규 아이디 추천<br />합승 택시 요금                         | Lv.1<br />Lv.3                           | ✅        |
-| 2022년 5월 18일 | 2021 KAKAO BLIND RECRUITMENT                                 | 메뉴 리뉴얼<br />광고 삽입                                   | Lv.2<br />Lv.3                           | ✅        |
-| 2022년 5월 19일 | 카카오 페이 코딩 테스트 참여                                 | 16:00 ~ 20:00                                                |                                          | ✅        |
 | 2022년 6월 22일 | DFS, BFS 복습하기                                            | [알고리즘 수업 - 깊이 우선 탐색 1](https://www.acmicpc.net/problem/24479)<br />[알고리즘 수업 - 깊이 우선 탐색 2](https://www.acmicpc.net/problem/24480)<br />[알고리즘 수업 - 너비 우선 탐색 1](https://www.acmicpc.net/problem/24444)<br />[알고리즘 수업 - 너비 우선 탐색 2](https://www.acmicpc.net/problem/24445) | 백준 단계별 풀어보기                     | ✅        |
 | 2022년 6월 29일 | 2차원 DP 유형 공부                                           | [파일 합치기](https://www.acmicpc.net/problem/11066)<br />[내리막 길](https://www.acmicpc.net/problem/1520)<br />[팰린드롬?](https://www.acmicpc.net/problem/10942)<br />[양팔저울](https://www.acmicpc.net/problem/2629)<br />마이다스 기출 문제 복기 | 백준 단계별 풀어보기<br />기출 문제 복기 | ✅        |
 | 2022년 7월 2일  | 2021 KAKAO BLIND RECRUITMENT                                 | [순위검색](https://programmers.co.kr/learn/courses/30/lessons/72412)<br />[카드 짝 맞추기](https://programmers.co.kr/learn/courses/30/lessons/72415) | Lv.2<br />Lv.3                           | ✅        |
