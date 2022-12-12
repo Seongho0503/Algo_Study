@@ -144,10 +144,7 @@ $ git commit -m "[BOJ] N-Queen / 골드5 / 1시간" -m "https://www.acmicpc.net/
 | 2022년 12월 14일 | 2차원 DP 유형 공부                                           | [파일 합치기](https://www.acmicpc.net/problem/11066)<br />[내리막 길](https://www.acmicpc.net/problem/1520)<br />[팰린드롬?](https://www.acmicpc.net/problem/10942)<br />[양팔저울](https://www.acmicpc.net/problem/2629)<br />마이다스 기출 문제 복기 | 백준 단계별 풀어보기<br />기출 문제 복기 | ✅        |
 | 2022년 12월 15일  | 2021 KAKAO BLIND RECRUITMENT                                 | [순위검색](https://programmers.co.kr/learn/courses/30/lessons/72412)<br />[카드 짝 맞추기](https://programmers.co.kr/learn/courses/30/lessons/72415) | Lv.2<br />Lv.3                           | ✅        |
 | 2022년 12월 16일  | 2020 KAKAO BLIND RECRUITMENT                                 | [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)<br />[자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059) | Lv.2<br />Lv.3                           | ✅        |
-| 2022년 7월 16일 | 2020 KAKAO BLIND RECRUITMENT                                 | [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058) | Lv.2                                     | ✅        |
-| 2022년 9월 16일 | 삼성 B형 대비 문제 풀이                                      | [숫자야구게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4su3xKXFUDFAUf) | B형                                      | ✅        |
-| 2022년 9월 20일 | 2022 KAKAO TECH INTERNSHIP                                   | [성격유형검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)<br />[코딩테스트공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668) | Lv.1<br />Lv.3                           | ✅        |
-| 2022년 9월 22일 | 2022 KAKAO TECH INTERNSHIP                                   | [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)<br />[등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669) | Lv.2<br />Lv.3                           | ✅        |
+
 
 ​                       
 
