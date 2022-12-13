@@ -26,11 +26,11 @@
 <br />
 
 ## ✅ commit 규칙
-- commit 메세지: [문제 출처(플랫폼)] 문제이름 / 난이도 / 걸린시간 
+- commit 메세지: [문제출처] 문제번호 / 난이도 / 문제 걸린시간 
 - description: 문제 주소 (option)
 - 터미널에서 작성법: 
 ```
-git commit -m "[BOJ] Hello World / 브론즈5 / 1분" -m "https://www.acmicpc.net/problem/2557"
+git commit -m "[BOJ] 1874 / 실버3 / 40분" 
 ```
 - 플랫폼 작성법 통일: 
   * [BOJ] - 백준 
@@ -42,8 +42,8 @@ git commit -m "[BOJ] Hello World / 브론즈5 / 1분" -m "https://www.acmicpc.ne
 <br />
 
 ## ✅ PR 규칙
-- PR 제목: 이름 / 주차 / 몇 문제
--  ```siheon kim / 220207 / 4문제 ```
+- PR 제목: 이름 / [문제출처] 문제번호 / 문제해결여부(맞음,틀림)
+-  ```권성호 / [BOJ] 1874 / 맞음 ```
 -  comment는 자유이나 가능하다면, 이번주에 풀었던 문제의 알고리즘 분류가 어떻게 되는지, <br> 어떤 문제가 어려웠는지 회고를 작성한다면 개인에게도 도움되고 다른 코드 리뷰어가 참고하기 좋을 것 같습니다 :)
 
 
