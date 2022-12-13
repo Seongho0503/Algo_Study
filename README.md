@@ -3,6 +3,7 @@
 
 
 참여 방법 설명글: <https://waytocse.tistory.com/59>
+- 위 링크는 참고용인 스터디 규칙은 아래를 참고해주세요
 <br />
 <br />
 
