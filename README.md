@@ -7,6 +7,11 @@
 <br />
 <br />
 
+### :pencil: Rule  
+- 스터디 시간: 평일 오후 2시  
+- 일주일 동안 5문제 꾸준히 풀기 
+-플랫폼은 [코딩테스트 대비 문제집](https://github.com/tony9402/baekjoon)을 사용한다. 
+
 ## ✅ 참여 방법
 1. 이 저장소를 `fork` 한다. (Clone 하면 잔디 안 심어짐)
 2. 매주 새 디렉터리를 만듭니다. (ex. 1주차, 2주차 ...)
@@ -62,15 +67,23 @@ git commit -m "[BOJ] 1874 / 실버3 / 40분"
 <br />
 <br />
 
-## ✅ (option)코드리뷰 규칙
-- PR에서 코드리뷰를 한다.
-- 전체 코드 흐름을 파악한 뒤, 이 분이 어떻게 풀었을까 이해를 한 후 
-- 의견제시
-  -   잘했다고 생각하는 부분
-  -   이렇게 하면 더 좋을 것 같다고 생각하는 부분
-  -   왜 이렇게 풀었는지 궁금한 부분
-  -   또 다른 풀이 방식 제시
-- 코드의 일부분에다 코드리뷰를 해도 되고 전체 코드 밑 or PR 하나 밑에다 코멘트 작성으로 리뷰를 해도 됩니다.
+## ✅How to Code Review   
+#### 1. Commit History로 리뷰하는 방법 
+다른 사람이 커밋한 데다가 댓글 다는 방식 =>
+[예시](https://github.com/ohgyun/using-github-for-code-reviews/commit/8a85b15805237214aea83a1131f0548b3b69a2d8)    
+
+#### 2. Pull Request로 리뷰하는 방법   
+- [fork해서 Pull Request 보내는 법](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)  
+- [fork된 레포지토리 최신상태 유지하는 법](https://jybaek.tistory.com/775)   
+-------
+
+1) 새로운 branch를 하나 만듭니다.  
+2) 새로 만든 branch에 코드를 push합니다.  
+3) push 완료 후 GitHub branch 페이지에 들어오면 Pull Request(PR)할건지 버튼이 생깁니다. 클릭!
+4) <b>스터디 시간 전에 merge</b>하면 됩니다. (merge 후 branch는 삭제해도 됩니다.)
+5) 코드 리뷰는 시터디 시간에 진행합니다.
+   
+#### 일단 이렇게 정리해 봤습니다,, 보완할 부분 있으면 자유롭게 수정해주세요! :smile:
 
 <br />
 <br />
