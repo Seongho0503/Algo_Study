@@ -77,7 +77,7 @@ git commit -m "[BOJ] Hello World / 브론즈5 / 1분" -m "https://www.acmicpc.ne
 
 | 주차            |  날짜            |기출 유형                                                    | 문제명                                                       | 난이도                                   | 풀이여부 |
 | --------------- | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------- | -------- |
-| Week1 | 22.12.13<br /> 22.12.14<br /> 22.12.15<br /> 22.12.16<br /> |Data Structre (자료구조)                                           | [스택 수열](https://www.acmicpc.net/problem/1874)<br />[후위 표기식2](https://www.acmicpc.net/problem/1966)<br />[프린터 큐](https://www.acmicpc.net/problem/1966)<br />[풍선 터트리기](https://www.acmicpc.net/problem/2346) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>                    | ✅<br />🟩<br />🟩<br />🟩        |
+| Week1 | 22.12.13<br /> 22.12.14<br /> 22.12.15<br /> 22.12.16<br /> |Data Structre (자료구조)                                           | [스택 수열](https://www.acmicpc.net/problem/1874)<br />[후위 표기식2](https://www.acmicpc.net/problem/1935)<br />[프린터 큐](https://www.acmicpc.net/problem/1966)<br />[풍선 터트리기](https://www.acmicpc.net/problem/2346) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>                    | ✅<br />🟩<br />🟩<br />🟩        |
 
 ​                       
 
