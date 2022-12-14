@@ -1,16 +1,46 @@
 ---
 # 💯 알고리즘 및 코딩 테스트 문제 풀이 📝
 
+## 🐧 **스터디 멤버**
+<table>
+ <tr>
+    <td align="center"><a href="https://github.com/Seongho0503"><img src="https://avatars.githubusercontent.com/Seongho0503" width="150px;" alt=""></td>
+    <td align="center"><a href="https://github.com/Mosquito0076"><img src="https://avatars.githubusercontent.com/Mosquito0076" width="150px;" alt=""></td>
+    <td align="center"><a href="https://github.com/Juwon-Kiim"><img src="https://avatars.githubusercontent.com/Juwon-Kiim" width="150px;" alt=""></td>
+    <td align="center"><a href="https://github.com/cssopy"><img src="https://avatars.githubusercontent.com/cssopy" width="150px;" alt=""></td>
+    <td align="center"><a href="https://github.com/lea-hwang"><img src="https://avatars.githubusercontent.com/lea-hwang" width="150px;" alt=""></td>
+  </tr>
+<!--   <tr> 건들지 x
+    <td align="center">Frontend</td>
+    <td align="center">Frontend</td>
+    <td align="center">Solidity</td>
+    <td align="center">Backend</td>
+    <td align="center">Unity</td>
+  </tr> -->
+     <tr>
+    <td align="center"><a href="https://github.com/Seongho0503"><b>권성호</b></td>
+    <td align="center"><a href="https://github.com/Mosquito0076">홍성목</b></td>
+    <td align="center"><a href="https://github.com/Juwon-Kiim"><b>김주원</b></td>
+    <td align="center"><a href="https://github.com/Jaehwanycssopy"><b>이정재</b></td>
+    <td align="center"><a href="https://github.com/lea-hwang"><b>황희원</b></td>
+  </tr>
 
-참여 방법 설명글: <https://waytocse.tistory.com/59>
-- 위 링크는 참고용인 스터디 규칙은 아래를 참고해주세요
+</table>
+
+
+
 <br />
 <br />
 
 ### :pencil: Rule  
-- 스터디 시간: 평일 오후 2시  
-- 일주일 동안 5문제 꾸준히 풀기 
--플랫폼은 [코딩테스트 대비 문제집](https://github.com/tony9402/baekjoon)을 사용한다. 
+- 스터디 시간 : 평일 오후 2시  
+- 일주일 동안 5문제 꾸준히 풀기 (평일 하루에 한 문제씩)
+- 플랫폼은 [코딩테스트 대비 문제집](https://github.com/tony9402/baekjoon)을 사용한다. 
+- 참여 방법 설명글: <https://waytocse.tistory.com/59>
+- 위 링크는 참고용인 스터디 규칙은 아래를 참고해주세요
+
+<br />
+<br />
 
 ## ✅ 참여 방법
 1. 이 저장소를 `fork` 한다. 
