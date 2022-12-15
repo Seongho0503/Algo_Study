@@ -19,7 +19,7 @@
   </tr> -->
      <tr>
     <td align="center"><a href="https://github.com/Seongho0503"><b>권성호</b></td>
-    <td align="center"><a href="https://github.com/Mosquito0076">홍성목</b></td>
+    <td align="center"><a href="https://github.com/Mosquito0076"><b>홍성목</b></td>
     <td align="center"><a href="https://github.com/Juwon-Kiim"><b>김주원</b></td>
     <td align="center"><a href="https://github.com/cssopy"><b>이정재</b></td>
     <td align="center"><a href="https://github.com/lea-hwang"><b>황희원</b></td>
