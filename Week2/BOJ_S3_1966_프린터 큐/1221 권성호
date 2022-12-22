@@ -1,0 +1,105 @@
+# BOJ_S3_1966_프린터 큐 [2022.12.21]
+https://www.acmicpc.net/problem/1966
+
+<접근법>
+```
+1. 문서 객체를 생성한다 (순서와 중요도)
+2. 리스트를 만들어서 큐처럼 사용한다 (문서 객체를 넣을 자료구조)
+3. 리스트에 입력 순으로 문서 객체를 넣는다.
+4. 맨 앞에 문서 객체를 꺼내서 나머지와 우선순위를 비교해본다.
+5. 내가 꺼낸 문서 객체가 입력받은 M가 같은 경우 반복문을 종료시킨다.
+
+
+
+```
+
+
+```java
+package BOJ_S3_2504_프린터큐;
+
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.*;
+
+public class BOJ_S3_2504_프린터큐 {
+		//문서 객체 -> 문서번호, 문서 중요도
+	    public static class Paper{
+	        int index, priority;
+
+	        public Paper(int index, int priority) {
+	            this.index = index;
+	            this.priority = priority;
+	        }
+
+	    }
+	    public static void main(String[] args) throws IOException {
+	        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+	        StringBuilder sb = new StringBuilder();
+	        int T = Integer.parseInt(br.readLine());
+
+	
+	        for (int tc = 0; tc < T; tc++) {
+	            //Paper객체를 갖는 리스트 생성 (q처럼 사용)
+	            LinkedList<Paper> q = new LinkedList<>();
+	            StringTokenizer st = new StringTokenizer(br.readLine());
+	            int N = Integer.parseInt(st.nextToken());
+	            int M = Integer.parseInt(st.nextToken());
+
+	            st = new StringTokenizer(br.readLine());
+	            //리스트에 입력 순으로 객체 삽입
+	            for (int i = 0; i <N; i++) {
+	                q.offer(new Paper(i, Integer.parseInt(st.nextToken())));
+	            }
+
+	            //출력순서를 나타낼 변수
+	            int count = 0;
+
+	            //q사이즈 만큼 반복
+	            while(!q.isEmpty()){
+	                //가장 앞에 있는 paper객체 꺼내오기
+	                Paper now = q.poll();
+	                boolean max = true;
+
+	                //남은 q사이즈 만큼 반복
+	                for (int i = 0; i < q.size(); i++) {
+
+	                    //꺼내온 paper객체보다 q에있는 paper객체의 priority가 더 큰게 있는경우
+	                    if(now.priority < q.get(i).priority){
+
+	                        //꺼내온 객체를 맨 뒤에 넣고
+	                        q.offer(now);
+	                        //방금 찾은 priority가 더 높은 객체가 나올 때까지 q의 맨 뒤로 삽입
+	                        for (int j = 0; j < i; j++) {
+	                            q.offer(q.poll());
+	                        }
+
+	                        //가장 큰게 아닌경우
+	                        max = false;
+	                        break;
+	                    }
+	                }
+	                //우선순위가 가장 큰게 아닌 경우
+	                if(!max){
+	                    continue;
+	                }
+
+	                //우선순위가 가장 큰경우
+	                //출력 카운트 1증가
+	                count++;
+	                //현재 꺼내온게 내가 찾는 Paper인 경우
+	                if(now.index==M){
+	                    //스탑
+	                    break;
+	                }
+	            }
+	            sb.append(count).append("\n");
+	        }
+	        System.out.println(sb);
+	    }
+	}
+
+
+
+```
