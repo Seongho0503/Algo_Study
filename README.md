@@ -1,6 +1,9 @@
 ---
 # 💯 알고리즘 및 코딩 테스트 문제 풀이 [Notion](https://www.notion.so/be4f5696e32f4ee8bb33b95f90ce7943) 📝
 
+### ✍ 19 Problems Solved
+
+
 ## 👩‍👦‍👦 **스터디 멤버**
 <table>
  <tr>
@@ -10,20 +13,20 @@
     <td align="center"><a href="https://github.com/cssopy"><img src="https://avatars.githubusercontent.com/cssopy" width="150px;" alt=""></td>
     <td align="center"><a href="https://github.com/lea-hwang"><img src="https://avatars.githubusercontent.com/lea-hwang" width="150px;" alt=""></td>
   </tr>
-<!--   <tr> 건들지 x
-    <td align="center">Frontend</td>
-    <td align="center">Frontend</td>
-    <td align="center">Solidity</td>
-    <td align="center">Backend</td>
-    <td align="center">Unity</td>
-  </tr> -->
-     <tr>
+  <tr>
     <td align="center"><a href="https://github.com/Seongho0503"><b>권성호</b></td>
     <td align="center"><a href="https://github.com/Mosquito0076"><b>홍성목</b></td>
     <td align="center"><a href="https://github.com/Juwon-Kiim"><b>김주원</b></td>
     <td align="center"><a href="https://github.com/cssopy"><b>이정재</b></td>
     <td align="center"><a href="https://github.com/lea-hwang"><b>황희원</b></td>
   </tr>
+  <tr> 
+    <td align="center">Java</td>
+    <td align="center">Java, Python</td>
+    <td align="center">Java<y</td>
+    <td align="center">Java</td>
+    <td align="center">Python</td>
+  </tr> 
 
 </table>
 
@@ -136,5 +139,5 @@ git commit -m "[BOJ] 1874 / 실버3 / 40분"
 Week2 | 22.12.19<br /> 22.12.20<br /> 22.12.21<br /> 22.12.22<br /> 22.12.23<br /> |Data Structre (자료구조)                                           | [괄호의 값](https://www.acmicpc.net/problem/2504)<br />[괄호 제거](https://www.acmicpc.net/problem/2800)<br />[프린터 큐](https://www.acmicpc.net/problem/1966)<br />[카드 놓기](https://www.acmicpc.net/problem/18115) <br />[탑](https://www.acmicpc.net/problem/2493)| <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/><br />  <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>   | ✅<br />✅<br />✅<br />✅<br />✅      | <a href="./Week2">바로가기</a> |
 Week3 | 22.12.27<br /> 22.12.28<br /> 22.12.29<br /> 22.12.30<br /> |Data Structre 2 (자료구조)                                           | [N번째 큰 수](https://www.acmicpc.net/problem/2075)<br />[N으로 만들기](https://www.acmicpc.net/problem/17255)<br />[절대값 힙](https://www.acmicpc.net/problem/11286)<br />[중앙값 구하기](https://www.acmicpc.net/problem/2696)  | <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>  <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/><br /> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/><br />                  | ✅<br />✅<br />✅<br />✅<br />     | <a href="./Week3">바로가기</a>
 Week4 | 22.01.02<br /> 22.01.03<br /> 22.01.04<br /> 22.01.05<br /> 22.01.06<br /> |Tree                                          | [상근이의 여행](https://www.acmicpc.net/problem/9372)<br />[이진 검색 트리](https://www.acmicpc.net/problem/5639)<br />[트리 순회](https://www.acmicpc.net/problem/1991)<br />[노드사이의 거리](https://www.acmicpc.net/problem/1240) <br />[트리](https://www.acmicpc.net/problem/4803)| <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>  <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/><br />  <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>   | ✅<br />✅<br />✅<br />✅<br />✅    | <a href="./Week4">바로가기</a> |
-Week5 | 22.01.09<br /> 22.01.10<br /> 22.01.11<br /> 22.01.12<br /> 22.01.13<br /> |Tree                                          | [완전 이진 트리](https://www.acmicpc.net/problem/9934)<br />[트리의 지름](https://www.acmicpc.net/problem/1967)<br />[단절점과 단절선](https://www.acmicpc.net/problem/14675)<br />[계보 복원가 호석](https://www.acmicpc.net/problem/21276) <br />[사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533)| <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>  <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/><br />  <img height="20px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>   | 🟩<br />🟩<br />🟩<br />🟩<br />🟩    | <a href="./Week5">바로가기</a> |
+Week5 | 22.01.09<br /> 22.01.10<br /> 22.01.11<br /> 22.01.12<br /> 22.01.13<br /> |Tree                                          | [완전 이진 트리](https://www.acmicpc.net/problem/9934)<br />[트리의 지름](https://www.acmicpc.net/problem/1967)<br />[단절점과 단절선](https://www.acmicpc.net/problem/14675)<br />[계보 복원가 호석](https://www.acmicpc.net/problem/21276) <br />[사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533)| <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>  <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/><br />  <img height="20px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>   | ✅<br />🟩<br />🟩<br />🟩<br />🟩    | <a href="./Week5">바로가기</a> |
 
