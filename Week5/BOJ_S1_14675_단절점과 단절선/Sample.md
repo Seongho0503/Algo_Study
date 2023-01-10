@@ -1,5 +1,5 @@
-# BOJ_S1_9934_완전 이진 트리 [2022.01.09]
-https://www.acmicpc.net/problem/9934
+# BOJ_S1_14675_단절점과 단절선 [2023.01.11]
+https://www.acmicpc.net/problem/14675
 
 <접근법>
 ```
