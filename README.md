@@ -1,7 +1,7 @@
 ---
 # 💯 알고리즘 및 코딩 테스트 문제 풀이 [Notion](https://www.notion.so/be4f5696e32f4ee8bb33b95f90ce7943) 📝
 
-### ✍ 34 Problems Solved
+### ✍ 35 Problems Solved
 
 
 ## 👩‍👦‍👦 **스터디 멤버**
@@ -37,7 +37,7 @@
 
 | 주차   | 날짜                                                         | 기출 유형           | 문제명                                                       | 난이도                                                       | 풀이여부                      | 풀이 링크                      |
 | ------ | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------------------- | ------------------------------ |
-| Week 8 | 22.01.30<br /> 22.01.31<br /> 22.02.01<br /> 22.02.02<br /> 22.02.03<br /> | Dynamic Programming | [RGB거리](https://www.acmicpc.net/problem/1149)<br />[퇴사2](https://www.acmicpc.net/problem/15486)<br />[쉬운 계단 수](https://www.acmicpc.net/problem/10844)<br />[전깃줄](https://www.acmicpc.net/problem/2565) <br />[앱](https://www.acmicpc.net/problem/7579) | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>  <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/><br />  <img height="20px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | ✅<br />✅<br />✅<br />✅<br />🟩 | <a href="./Week8">바로가기</a> |
+| Week 8 | 22.01.30<br /> 22.01.31<br /> 22.02.01<br /> 22.02.02<br /> 22.02.03<br /> | Dynamic Programming | [RGB거리](https://www.acmicpc.net/problem/1149)<br />[퇴사2](https://www.acmicpc.net/problem/15486)<br />[쉬운 계단 수](https://www.acmicpc.net/problem/10844)<br />[전깃줄](https://www.acmicpc.net/problem/2565) <br />[앱](https://www.acmicpc.net/problem/7579) | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>  <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/><br />  <img height="20px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | ✅<br />✅<br />✅<br />✅<br />✅ | <a href="./Week8">바로가기</a> |
 
 <br />
 <br />
