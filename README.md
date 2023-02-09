@@ -1,7 +1,7 @@
 ---
 # 💯 알고리즘 및 코딩 테스트 문제 풀이 [Notion](https://www.notion.so/be4f5696e32f4ee8bb33b95f90ce7943) 📝
 
-### ✍ 38 Problems Solved
+### ✍ 39 Problems Solved
 
 
 ## 👩‍👦‍👦 **스터디 멤버**
