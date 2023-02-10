@@ -1,7 +1,7 @@
 ---
 # 💯 알고리즘 및 코딩 테스트 문제 풀이 [Notion](https://www.notion.so/be4f5696e32f4ee8bb33b95f90ce7943) 📝
 
-### ✍ 38 Problems Solved
+### ✍ 39 Problems Solved
 
 
 ## 👩‍👦‍👦 **스터디 멤버**
@@ -37,7 +37,7 @@
 
 | 주차   | 날짜                                                         | 기출 유형           | 문제명                                                       | 난이도                                                       | 풀이여부                      | 풀이 링크                      |
 | ------ | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------------------- | ------------------------------ |
-| Week 9 | 22.02.06<br /> 22.02.07<br /> 22.02.08<br /> 22.02.09<br /> 22.02.10<br /> | Dynamic Programming | [1, 2, 3 더하기 2](https://www.acmicpc.net/problem/12101)<br />[합분해](https://www.acmicpc.net/problem/2225)<br />[정수 삼각형](https://www.acmicpc.net/problem/1932)<br />[로또](https://www.acmicpc.net/problem/2758) <br />[동전 분배](https://www.acmicpc.net/problem/1943) | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>  <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/><br />  <img height="20px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | ✅<br />✅<br />✅<br />🟩<br />🟩 | <a href="./Week9">바로가기</a> |
+| Week 9 | 22.02.06<br /> 22.02.07<br /> 22.02.08<br /> 22.02.09<br /> 22.02.10<br /> | Dynamic Programming | [1, 2, 3 더하기 2](https://www.acmicpc.net/problem/12101)<br />[합분해](https://www.acmicpc.net/problem/2225)<br />[정수 삼각형](https://www.acmicpc.net/problem/1932)<br />[로또](https://www.acmicpc.net/problem/2758) <br />[동전 분배](https://www.acmicpc.net/problem/1943) | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>  <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/><br />  <img height="20px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | ✅<br />✅<br />✅<br />✅<br />🟩 | <a href="./Week9">바로가기</a> |
 
 
 
