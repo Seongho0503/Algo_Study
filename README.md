@@ -1,7 +1,7 @@
 ---
 # 💯 알고리즘 및 코딩 테스트 문제 풀이 [Notion](https://www.notion.so/be4f5696e32f4ee8bb33b95f90ce7943) 📝
 
-### ✍ 48 Problems Solved
+### ✍ 49 Problems Solved
 
 
 ## 👩‍👦‍👦 **스터디 멤버**
@@ -37,7 +37,7 @@
 
 | 주차    | 날짜                                                         | 기출 유형           | 문제명                                                       | 난이도                                                       | 풀이여부                      | 풀이 링크                       |
 | ------- | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ | :------------------------------------------------------------: | :-----------------------------: | ------------------------------- |
-| Week 11 | 22.02.20<br /> 22.02.21<br /> 22.02.22<br /> 22.02.23<br /> 22.02.24<br /> | Brute-Force Search / Exhaustive Search | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)<br />[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)<br />[피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)<br />[전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) <br />[모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) | <center>lv.2</center> <br/> lv.2 <br/> lv.2 <br/> lv.2 <br/> lv.2 | ✅<br />✅<br />✅<br />🟩<br />🟩 | <a href="./Week11">바로가기</a> |
+| Week 11 | 22.02.20<br /> 22.02.21<br /> 22.02.22<br /> 22.02.23<br /> 22.02.24<br /> | Brute-Force Search / Exhaustive Search | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)<br />[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)<br />[피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)<br />[전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) <br />[모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) | <center>lv.2</center> <br/> lv.2 <br/> lv.2 <br/> lv.2 <br/> lv.2 | ✅<br />✅<br />✅<br />✅<br />🟩 | <a href="./Week11">바로가기</a> |
 
 
 
