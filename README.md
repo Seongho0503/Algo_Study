@@ -21,7 +21,7 @@
     <td align="center"><a href="https://github.com/lea-hwang"><b>황희원</b></td>
   </tr>
   <tr> 
-    <td align="center">Java</td>
+    <td align="center">Javascript</td>
     <td align="center">Java, Python</td>
     <td align="center">Java<y</td>
     <td align="center">Java</td>
