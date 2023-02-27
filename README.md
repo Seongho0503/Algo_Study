@@ -37,7 +37,7 @@
 
 | 주차    | 날짜                                                         | 기출 유형           | 문제명                                                       | 난이도                                                       | 풀이여부                      | 풀이 링크                       |
 | ------- | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ | :------------------------------------------------------------: | :-----------------------------: | ------------------------------- |
-| Week 12 | 22.02.27<br /> 22.02.28<br /> 22.03.01<br /> 22.03.02<br /> 22.03.03<br /> | ??? | [위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578)<br />[기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)<br />[다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)<br />[주식 가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584) <br />[가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | lv.2 <br/> lv.2 <br/> lv.2 <br/> lv.2 <br/> lv.2 | ✅<br />🟩<br />🟩<br />🟩<br />🟩 | <a href="./Week12">바로가기</a> |
+| Week 12 | 22.02.27<br /> 22.02.28<br /> 22.03.01<br /> 22.03.02<br /> 22.03.03<br /> |  | [위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578)<br />[기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)<br />[다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)<br />[주식 가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584) <br />[가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | lv.2 <br/> lv.2 <br/> lv.2 <br/> lv.2 <br/> lv.2 | ✅<br />🟩<br />🟩<br />🟩<br />🟩 | <a href="./Week12">바로가기</a> |
 
 
 
@@ -48,6 +48,7 @@
 - 스터디 시간 : 평일 오후 2시  
 - 일주일 동안 5문제 꾸준히 풀기 (평일 하루에 한 문제씩)
 - 플랫폼은 [코딩테스트 대비 문제집](https://github.com/tony9402/baekjoon)을 사용한다. 
+- 2023.02.20부터 프로그래머스 플랫폼을 이용합니다. 
 - 참여 방법 설명글: <https://waytocse.tistory.com/59>
 - 위 링크는 참고용이며, 저희의 스터디 규칙은 아래를 참고해주세요
 
@@ -85,11 +86,11 @@
 <br />
 
 ## ✅ commit 규칙
-- commit 메세지: [문제출처] 문제번호 / 난이도 / 문제 걸린시간 
+- commit 메세지: [문제출처] 문제번호 / 난이도 / 문제 걸린시간 / 이름
 - description: 문제 주소 (option)
 - 터미널에서 작성법: 
 ```
-git commit -m "[BOJ] 1874 / 실버3 / 40분" 
+git commit -m "[BOJ] 1874 / 실버3 / 40분 / 권성호" 
 ```
 - 플랫폼 작성법 통일: 
   * [BOJ] - 백준 
@@ -101,8 +102,8 @@ git commit -m "[BOJ] 1874 / 실버3 / 40분"
 <br />
 
 ## ✅ PR 규칙
-- PR 제목: 이름 / [문제출처] 문제번호 / 문제해결여부(성공,)
--  ```권성호 / [BOJ] 1874 / 성공 ```
+- PR 제목: [문제출처] 문제번호 / 문제 레벨(등급) / 문제 걸린시간 / 이름
+-  ```[PGS] 42586 / 레벨2 / 40분 / 권성호 ```
 -  comment는 자유이나 가능하다면, 이번주에 풀었던 문제의 알고리즘 분류가 어떻게 되는지, <br> 어떤 문제가 어려웠는지 회고를 작성한다면 개인에게도 도움되고 다른 코드 리뷰어가 참고하기 좋을 것 같습니다 :)
 
 
