@@ -1,7 +1,7 @@
 ---
 # 💯 알고리즘 및 코딩 테스트 문제 풀이 [Notion](https://www.notion.so/be4f5696e32f4ee8bb33b95f90ce7943) 📝
 
-### ✍ 58 Problems Solved
+### ✍ 59 Problems Solved
 
 
 ## 👩‍👦‍👦 **스터디 멤버**
@@ -37,7 +37,7 @@
 
 | 주차    | 날짜                                                         | 기출 유형           | 문제명                                                       | 난이도                                                       | 풀이여부                      | 풀이 링크                       |
 | ------- | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ | :------------------------------------------------------------: | :-----------------------------: | ------------------------------- |
-| Week 13 | 23.03.06<br /> 23.03.07<br /> 23.03.08<br /> 23.03.09<br /> 23.03.10<br /> | 랜덤 | [H-index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)<br />[베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)<br />[프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)<br />[전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)<br />[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | lv.2 <br/> lv.3 <br/> lv.2 <br/> lv.2 <br/> lv.2 | ✅<br />✅<br />✅<br />🟩<br />🟩 | <a href="./Week13">바로가기</a> |
+| Week 13 | 23.03.06<br /> 23.03.07<br /> 23.03.08<br /> 23.03.09<br /> 23.03.10<br /> | 랜덤 | [H-index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)<br />[베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)<br />[프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)<br />[전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)<br />[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | lv.2 <br/> lv.3 <br/> lv.2 <br/> lv.2 <br/> lv.2 | ✅<br />✅<br />✅<br />✅<br />🟩 | <a href="./Week13">바로가기</a> |
 
 
 
