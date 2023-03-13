@@ -1,7 +1,7 @@
 ---
 # 💯 알고리즘 및 코딩 테스트 문제 풀이 [Notion](https://www.notion.so/be4f5696e32f4ee8bb33b95f90ce7943) 📝
 
-### ✍ 60 Problems Solved
+### ✍ 61 Problems Solved
 
 
 ## 👩‍👦‍👦 **스터디 멤버**
@@ -37,7 +37,7 @@
 
 | 주차    | 날짜                                                         | 기출 유형           | 문제명                                                       | 난이도                                                       | 풀이여부                      | 풀이 링크                       |
 | ------- | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ | :------------------------------------------------------------: | :-----------------------------: | ------------------------------- |
-| Week 14 | 23.03.13<br /> 23.03.14<br /> 23.03.15<br /> 23.03.16<br /> 23.03.17<br /> | 랜덤 | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)<br />[여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)<br />[더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)<br />[게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)<br />[섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) | lv.3 <br/> lv.3 <br/> lv.2 <br/> lv.2 <br/> lv.3 | 🟩<br />🟩<br />🟩<br />🟩<br />🟩 | <a href="./Week14">바로가기</a> |
+| Week 14 | 23.03.13<br /> 23.03.14<br /> 23.03.15<br /> 23.03.16<br /> 23.03.17<br /> | 랜덤 | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)<br />[여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)<br />[더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)<br />[게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)<br />[섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) | lv.3 <br/> lv.3 <br/> lv.2 <br/> lv.2 <br/> lv.3 | ✅<br />🟩<br />🟩<br />🟩<br />🟩 | <a href="./Week14">바로가기</a> |
 
 
 
