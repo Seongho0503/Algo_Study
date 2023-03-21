@@ -1,7 +1,7 @@
 ---
 # 💯 알고리즘 및 코딩 테스트 문제 풀이 [Notion](https://www.notion.so/be4f5696e32f4ee8bb33b95f90ce7943) 📝
 
-### ✍ 66 Problems Solved
+### ✍ 67 Problems Solved
 
 
 ## 👩‍👦‍👦 **스터디 멤버**
@@ -37,7 +37,7 @@
 
 | 주차    | 날짜                                                         | 기출 유형           | 문제명                                                       | 난이도                                                       | 풀이여부                      | 풀이 링크                       |
 | ------- | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ | :------------------------------------------------------------: | :-----------------------------: | ------------------------------- |
-| Week 15 | 23.03.20<br /> 23.03.21<br /> 23.03.22<br /> 23.03.23<br /> 23.03.24<br /> | 랜덤 | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)<br />[네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)<br />[큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)<br />[단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)<br />[이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | lv.2 <br/> lv.3 <br/> lv.2 <br/> lv.3 <br/> lv.3 | ✅<br />🟩<br />🟩<br />🟩<br />🟩 | <a href="./Week15">바로가기</a> |
+| Week 15 | 23.03.20<br /> 23.03.21<br /> 23.03.22<br /> 23.03.23<br /> 23.03.24<br /> | 랜덤 | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)<br />[네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)<br />[큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)<br />[단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)<br />[이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | lv.2 <br/> lv.3 <br/> lv.2 <br/> lv.3 <br/> lv.3 | ✅<br />✅<br />🟩<br />🟩<br />🟩 | <a href="./Week15">바로가기</a> |
 
 
 
