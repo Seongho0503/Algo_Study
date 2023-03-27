@@ -1,7 +1,7 @@
 ---
 # 💯 알고리즘 및 코딩 테스트 문제 풀이 [Notion](https://www.notion.so/be4f5696e32f4ee8bb33b95f90ce7943) 📝
 
-### ✍ 70 Problems Solved
+### ✍ 71 Problems Solved
 
 
 ## 👩‍👦‍👦 **스터디 멤버**
@@ -37,7 +37,7 @@
 
 | 주차    | 날짜                                                         | 기출 유형           | 문제명                                                       | 난이도                                                       | 풀이여부                      | 풀이 링크                       |
 | ------- | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ | :------------------------------------------------------------: | :-----------------------------: | ------------------------------- |
-| Week 16 | 23.03.27<br /> 23.03.28<br /> 23.03.29<br /> 23.03.30<br /> 23.03.31<br /> | 랜덤 | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)<br />[구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)<br />[단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)<br />[퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021)<br />[아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694) | lv.2 <br/> lv.2 <br/> lv.3 <br/> lv.3 <br/> lv.3 | 🟩<br />🟩<br />🟩<br />🟩<br />🟩 | <a href="./Week16">바로가기</a> |
+| Week 16 | 23.03.27<br /> 23.03.28<br /> 23.03.29<br /> 23.03.30<br /> 23.03.31<br /> | 랜덤 | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)<br />[구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)<br />[단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)<br />[퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021)<br />[아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694) | lv.2 <br/> lv.2 <br/> lv.3 <br/> lv.3 <br/> lv.3 | ✅<br />🟩<br />🟩<br />🟩<br />🟩 | <a href="./Week16">바로가기</a> |
 
 
 
