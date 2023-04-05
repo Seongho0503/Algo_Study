@@ -1,7 +1,7 @@
 ---
 # 💯 알고리즘 및 코딩 테스트 문제 풀이 [Notion](https://www.notion.so/be4f5696e32f4ee8bb33b95f90ce7943) 📝
 
-### ✍ 77 Problems Solved
+### ✍ 78 Problems Solved
 
 
 ## 👩‍👦‍👦 **스터디 멤버**
@@ -37,7 +37,7 @@
 
 | 주차    | 날짜                                                         | 기출 유형           | 문제명                                                       | 난이도                                                       | 풀이여부                      | 풀이 링크                       |
 | ------- | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ | :------------------------------------------------------------: | :-----------------------------: | ------------------------------- |
-| Week 17 | 23.04.03<br /> 23.04.04<br /> 23.04.05<br /> 23.04.06<br /> 23.04.07<br /> | 랜덤 | [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)<br />[정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)<br />[가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)<br />[사칙연산](https://school.programmers.co.kr/learn/courses/30/lessons/1843)<br />[도둑질](https://school.programmers.co.kr/learn/courses/30/lessons/42897) | lv.3 <br/> lv.3 <br/> lv.3 <br/> lv.4 <br/> lv.4 | ✅<br />✅<br />🟩<br />🟩<br />🟩 | <a href="./Week17">바로가기</a> |
+| Week 17 | 23.04.03<br /> 23.04.04<br /> 23.04.05<br /> 23.04.06<br /> 23.04.07<br /> | 랜덤 | [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)<br />[정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)<br />[가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)<br />[사칙연산](https://school.programmers.co.kr/learn/courses/30/lessons/1843)<br />[도둑질](https://school.programmers.co.kr/learn/courses/30/lessons/42897) | lv.3 <br/> lv.3 <br/> lv.3 <br/> lv.4 <br/> lv.4 | ✅<br />✅<br />✅<br />🟩<br />🟩 | <a href="./Week17">바로가기</a> |
 
 
 
