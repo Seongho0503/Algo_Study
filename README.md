@@ -35,9 +35,9 @@
 
 ### 🟨 이번 주 문제
 
-| 주차    | 날짜                                                         | 기출 유형           | 문제명                                                       | 난이도                                                       | 풀이여부                      | 풀이 링크                       |
+| 18 주차    | 날짜                                                         | 기출 유형           | 문제명                                                       | 난이도                                                       | 풀이여부                      | 풀이 링크                       |
 | ------- | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ | :------------------------------------------------------------: | :-----------------------------: | ------------------------------- |
-| Week 18 | 23.04.10<br /> 23.04.11<br /> 23.04.12<br /> 23.04.13<br /> 23.04.14<br /> | 랜덤 | [](https://school.programmers.co.kr/learn/courses/30/lessons/49191)<br />[](https://school.programmers.co.kr/learn/courses/30/lessons/43105)<br />[](https://school.programmers.co.kr/learn/courses/30/lessons/49189)<br />[](https://school.programmers.co.kr/learn/courses/30/lessons/1843)<br />[](https://school.programmers.co.kr/learn/courses/30/lessons/42897) | lv. <br/> lv. <br/> lv. <br/> lv. <br/> lv. | 🟩<br />🟩<br />🟩<br />🟩<br />🟩 | <a href="./Week18">바로가기</a> |
+| Week 18 | 23.04.10<br /> 23.04.11<br /> 23.04.12<br /> 23.04.13<br /> 23.04.14<br /> | 랜덤 |  [미로탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)<br />[시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)<br />[인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995)<br />[삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)<br />[스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993) | lv.2 <br/> lv.2 <br/> lv.3 <br/> lv.2 <br/> lv.2 | 🟩<br />🟩<br />🟩<br />🟩<br />🟩 | <a href="./Week18">바로가기</a> |
 
 
 
