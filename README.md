@@ -1,7 +1,7 @@
 ---
 # 💯 알고리즘 및 코딩 테스트 문제 풀이 [Notion](https://www.notion.so/be4f5696e32f4ee8bb33b95f90ce7943) 📝
 
-### ✍ 85 Problems Solved
+### ✍ 86 Problems Solved
 
 
 ## 👩‍👦‍👦 **스터디 멤버**
@@ -37,7 +37,7 @@
 
 | 18 주차    | 날짜                                                         | 기출 유형           | 문제명                                                       | 난이도                                                       | 풀이여부                      | 풀이 링크                       |
 | ------- | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ | :------------------------------------------------------------: | :-----------------------------: | ------------------------------- |
-| Week 19 | 23.04.17<br /> 23.04.18<br /> 23.04.19<br /> 23.04.20<br /> 23.04.21<br /> | PCCP 모의고사 |  [외톨이 알파벳](https://school.programmers.co.kr/learn/courses/15008/lessons/121683)<br />[체육대회](https://school.programmers.co.kr/learn/courses/15008/lessons/121684)<br />[유전법칙](https://school.programmers.co.kr/learn/courses/15008/lessons/121685)<br />[운영체제](https://school.programmers.co.kr/learn/courses/15008/lessons/121686)<br />[실습용 로봇](https://school.programmers.co.kr/learn/courses/15009/lessons/121687) | lv. 2~3 | 🟩<br />🟩<br />🟩<br />🟩<br />🟩 | <a href="./Week19">바로가기</a> |
+| Week 19 | 23.04.17<br /> 23.04.18<br /> 23.04.19<br /> 23.04.20<br /> 23.04.21<br /> | PCCP 모의고사 |  [외톨이 알파벳](https://school.programmers.co.kr/learn/courses/15008/lessons/121683)<br />[체육대회](https://school.programmers.co.kr/learn/courses/15008/lessons/121684)<br />[유전법칙](https://school.programmers.co.kr/learn/courses/15008/lessons/121685)<br />[운영체제](https://school.programmers.co.kr/learn/courses/15008/lessons/121686)<br />[실습용 로봇](https://school.programmers.co.kr/learn/courses/15009/lessons/121687) | lv. 2~3 | ✅<br />🟩<br />🟩<br />🟩<br />🟩 | <a href="./Week19">바로가기</a> |
 
 
 
