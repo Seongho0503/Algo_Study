@@ -1,5 +1,5 @@
-#   [2023.04.20] PGS_LVN_121686_운영체제
-https://school.programmers.co.kr/learn/courses/15008/lessons/121686
+#   [2023.04.24] PGS_LVN_121688_신입 사원 교육
+https://school.programmers.co.kr/learn/courses/15009/lessons/121688
 
 <접근법>
 
