@@ -1,5 +1,5 @@
 #   [2023.04.26] PGS_LVN_121690_보물_지도
-https://school.programmers.co.kr/learn/courses/15009/lessons/121688
+https://school.programmers.co.kr/learn/courses/15009/lessons/121690
 
 <접근법>
 
