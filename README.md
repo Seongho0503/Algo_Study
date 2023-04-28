@@ -1,7 +1,7 @@
 ---
 # 💯 알고리즘 및 코딩 테스트 문제 풀이 [Notion](https://www.notion.so/be4f5696e32f4ee8bb33b95f90ce7943) 📝
 
-### ✍ 94 Problems Solved
+### ✍ 95 Problems Solved
 
 
 ## 👩‍👦‍👦 **스터디 멤버**
@@ -40,7 +40,7 @@
 
 | 20 주차    | 날짜                                                         | 기출 유형           | 문제명                                                       | 난이도                                                       | 풀이여부                      | 풀이 링크                       |
 | ------- | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ | :------------------------------------------------------------: | :-----------------------------: | ------------------------------- |
-| Week 20 | 23.04.24<br /> 23.04.25<br /> 23.04.26<br /> 23.04.27<br /> 23.04.28<br /> | PCCP 모의고사 |  [신입 사원 교육](https://school.programmers.co.kr/learn/courses/15009/lessons/121688)<br />[카페 확장](https://school.programmers.co.kr/learn/courses/15009/lessons/121689)<br />[보물 지도](https://school.programmers.co.kr/learn/courses/15009/lessons/121690)<br />[기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979)<br />[숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987) | lv. 2~3 | ✅<br />✅<br />✅<br />✅<br />🟩 | <a href="./Week20">바로가기</a> |
+| Week 20 | 23.04.24<br /> 23.04.25<br /> 23.04.26<br /> 23.04.27<br /> 23.04.28<br /> | PCCP 모의고사 |  [신입 사원 교육](https://school.programmers.co.kr/learn/courses/15009/lessons/121688)<br />[카페 확장](https://school.programmers.co.kr/learn/courses/15009/lessons/121689)<br />[보물 지도](https://school.programmers.co.kr/learn/courses/15009/lessons/121690)<br />[기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979)<br />[숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987) | lv. 2~3 | ✅<br />✅<br />✅<br />✅<br />✅ | <a href="./Week20">바로가기</a> |
 
 
 <br />
