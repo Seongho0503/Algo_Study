@@ -1,5 +1,6 @@
 ---
 # 💯 알고리즘 및 코딩 테스트 문제 풀이 [Notion](https://www.notion.so/be4f5696e32f4ee8bb33b95f90ce7943) 📝
+- 백준, 프로그래머스의 알고리즘 문제 풀이 오픈 소스를 제공합니다.
 
 ### ✍ 99 Problems Solved
 
@@ -21,7 +22,7 @@
     <td align="center"><a href="https://github.com/lea-hwang"><b>황희원</b></td>
   </tr>
   <tr> 
-    <td align="center">Javascript</td>
+    <td align="center">Java, Javascript</td>
     <td align="center">Java, Python</td>
     <td align="center">Java<y</td>
     <td align="center">Java</td>
