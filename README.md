@@ -2,7 +2,7 @@
 # 💯 알고리즘 및 코딩 테스트 문제 풀이 [Notion](https://www.notion.so/be4f5696e32f4ee8bb33b95f90ce7943) 📝
 - 백준, 프로그래머스의 알고리즘 문제 풀이 오픈 소스를 제공합니다.
 
-### ✍ 102 Problems Solved
+### ✍ 103 Problems Solved
 
 
 ## 👩‍👦‍👦 **스터디 멤버**
@@ -42,7 +42,7 @@
 
 | 20 주차    | 날짜                                                         | 기출 유형           | 문제명                                                       | 난이도                                                       | 풀이여부                      | 풀이 링크                       |
 | ------- | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ | :------------------------------------------------------------: | :-----------------------------: | ------------------------------- |
-| Week 22 | 23.05.08<br /> 23.05.09<br /> 23.05.10<br /> 23.05.11<br /> 23.05.12<br /> | 랜덤 |  [연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988)<br />[합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413)<br />[등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)<br />[아방가르드 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/181186)<br />[억억단을 외우자](https://school.programmers.co.kr/learn/courses/30/lessons/138475) | lv.3 <br/> lv.3 <br/> lv.3 <br/> lv.3 <br/> lv.3| ✅<br />✅<br />🟩<br />🟩<br />🟩 | <a href="./Week22">바로가기</a> |
+| Week 22 | 23.05.08<br /> 23.05.09<br /> 23.05.10<br /> 23.05.11<br /> 23.05.12<br /> | 랜덤 |  [연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988)<br />[합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413)<br />[등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)<br />[아방가르드 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/181186)<br />[억억단을 외우자](https://school.programmers.co.kr/learn/courses/30/lessons/138475) | lv.3 <br/> lv.3 <br/> lv.3 <br/> lv.3 <br/> lv.3| ✅<br />✅<br />✅<br />🟩<br />🟩 | <a href="./Week22">바로가기</a> |
 
 
 <br />
