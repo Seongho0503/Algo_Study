@@ -2,7 +2,7 @@
 # 💯 알고리즘 및 코딩 테스트 문제 풀이 [Notion](https://www.notion.so/be4f5696e32f4ee8bb33b95f90ce7943) 📝
 - 백준, 프로그래머스의 알고리즘 문제 풀이 오픈 소스를 제공합니다.
 
-### ✍ 105 Problems Solved
+### ✍ 106 Problems Solved
 
 
 ## 👩‍👦‍👦 **스터디 멤버**
@@ -42,7 +42,7 @@
 
 | 23 주차    | 날짜                                                         | 기출 유형           | 문제명                                                       | 난이도                                                       | 풀이여부                      | 풀이 링크                       |
 | ------- | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ | :------------------------------------------------------------: | :-----------------------------: | ------------------------------- |
-| Week 23 | 23.05.15<br />23.05.16<br />23.05.17<br />23.05.18<br />23.05.19<br /> | 랜덤 |  [경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259)<br/> [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)<br/> [카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/131129)<br/> [숫자 타자 대회](https://school.programmers.co.kr/learn/courses/30/lessons/136797)<br/> [고고학 최고의 발견](https://school.programmers.co.kr/learn/courses/30/lessons/131702)<br/> | lv.3 <br/> lv.3 <br/> lv.3 <br/> lv.3 <br/> lv.3 <br/> | ✅<br /> 🟩<br /> 🟩<br /> 🟩<br /> 🟩<br /> | <a href="./Week23">바로가기</a> |
+| Week 23 | 23.05.15<br />23.05.16<br />23.05.17<br />23.05.18<br />23.05.19<br /> | 랜덤 |  [경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259)<br/> [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)<br/> [카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/131129)<br/> [숫자 타자 대회](https://school.programmers.co.kr/learn/courses/30/lessons/136797)<br/> [고고학 최고의 발견](https://school.programmers.co.kr/learn/courses/30/lessons/131702)<br/> | lv.3 <br/> lv.3 <br/> lv.3 <br/> lv.3 <br/> lv.3 <br/> | ✅<br /> ✅<br /> 🟩<br /> 🟩<br /> 🟩<br /> | <a href="./Week23">바로가기</a> |
 
 
 <br />
