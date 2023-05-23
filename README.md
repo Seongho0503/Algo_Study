@@ -2,7 +2,7 @@
 # 💯 알고리즘 및 코딩 테스트 문제 풀이 [Notion](https://www.notion.so/be4f5696e32f4ee8bb33b95f90ce7943) 📝
 - 백준, 프로그래머스의 알고리즘 문제 풀이 오픈 소스를 제공합니다.
 
-### ✍ 109 Problems Solved
+### ✍ 111 Problems Solved
 
 
 ## 👩‍👦‍👦 **스터디 멤버**
@@ -42,7 +42,7 @@
 
 | 24 주차    | 날짜                                                         | 기출 유형           | 문제명                                                       | 난이도                                                       | 풀이여부                      | 풀이 링크                       |
 | ------- | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ | :------------------------------------------------------------: | :-----------------------------: | ------------------------------- |
-| Week 24 | 23.05.22<br />23.05.23<br />23.05.24<br />23.05.25<br />23.05.26<br /> | DP, DFS, 이분탐색, 랜덤 |  [다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486)<br/> [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)<br/> [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)<br/> [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938)<br/> [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)<br/> | lv.3 <br/> lv.3 <br/> lv.3 <br/> lv.3 <br/> lv.3 <br/> | 🟩<br /> 🟩<br /> 🟩<br /> 🟩<br /> 🟩<br /> | <a href="./Week24">바로가기</a> |
+| Week 24 | 23.05.22<br />23.05.23<br />23.05.24<br />23.05.25<br />23.05.26<br /> | DP, DFS, 이분탐색, 랜덤 |  [다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486)<br/> [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)<br/> [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)<br/> [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938)<br/> [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)<br/> | lv.3 <br/> lv.3 <br/> lv.3 <br/> lv.3 <br/> lv.3 <br/> | ✅<br /> ✅<br /> 🟩<br /> 🟩<br /> 🟩<br /> | <a href="./Week24">바로가기</a> |
 
 
 <br />
