@@ -2,7 +2,7 @@
 # 💯 알고리즘 및 코딩 테스트 문제 풀이 [Notion](https://www.notion.so/be4f5696e32f4ee8bb33b95f90ce7943) 📝
 - 백준, 프로그래머스의 알고리즘 문제 풀이 오픈 소스를 제공합니다.
 
-### ✍ 114 Problems Solved
+### ✍ 115 Problems Solved
 
 
 ## 👩‍👦‍👦 **스터디 멤버**
@@ -40,9 +40,9 @@
 
 
 
-| 25 주차    | 날짜                                                         | 기출 유형           | 문제명                                                       | 난이도                                                       | 풀이여부                      | 풀이 링크                       |
+| 26 주차    | 날짜                                                         | 기출 유형           | 문제명                                                       | 난이도                                                       | 풀이여부                      | 풀이 링크                       |
 | ------- | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ | :------------------------------------------------------------: | :-----------------------------: | ------------------------------- |
-| Week 25 | 23.06.02<br /> | 이분탐색 |  [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062)<br/>  | lv.3 <br/> | 🟩<br /> | <a href="./Week25">바로가기</a> |
+| Week 26 | 23.06.05<br /> 23.06.06<br /> 23.06.07<br /> 23.06.08<br /> 23.06.09<br /> | , 랜덤 |  [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)<br/> [스티커 모으기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/12971)<br/> [자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)<br/> [가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904)<br/> [풍선 터트리기](https://school.programmers.co.kr/learn/courses/30/lessons/68646)<br/>  | lv.3 <br/> lv.3 <br/> lv.3 <br/> lv.3 <br/> lv.3 <br/> | 🟩<br /> 🟩<br /> 🟩<br /> 🟩<br /> 🟩<br /> | <a href="./Week26">바로가기</a> |
 
 
 <br />
@@ -173,3 +173,5 @@ git commit -m "[BOJ] 1874 / 실버3 / 40분 / 권성호"
 | Week 22 | 23.05.08<br /> 23.05.09<br /> 23.05.10<br /> 23.05.11<br /> 23.05.12<br /> | 랜덤 |  [연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988)<br />[합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413)<br />[등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)<br />[아방가르드 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/181186)<br />[억억단을 외우자](https://school.programmers.co.kr/learn/courses/30/lessons/138475) | lv.3 <br/> lv.3 <br/> lv.3 <br/> lv.3 <br/> lv.3| ✅<br />✅<br />✅<br />🟩<br />✅ | <a href="./Week22">바로가기</a> |
 | Week 23 | 23.05.15<br />23.05.16<br />23.05.17<br />23.05.18<br />23.05.19<br /> | 랜덤 |  [경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259)<br/> [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)<br/> [카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/131129)<br/> [숫자 타자 대회](https://school.programmers.co.kr/learn/courses/30/lessons/136797)<br/> [고고학 최고의 발견](https://school.programmers.co.kr/learn/courses/30/lessons/131702)<br/> | lv.3 <br/> lv.3 <br/> lv.3 <br/> lv.3 <br/> lv.3 <br/> | ✅<br /> ✅<br /> ✅<br /> ✅<br /> ✅<br /> | <a href="./Week23">바로가기</a> |
 | Week 24 | 23.05.22<br />23.05.23<br />23.05.24<br />23.05.25<br />23.05.26<br /> | DP, DFS, 이분탐색, 랜덤 |  [다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486)<br/> [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)<br/> [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)<br/> [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938)<br/> [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)<br/> | lv.3 <br/> lv.3 <br/> lv.3 <br/> lv.3 <br/> lv.3 <br/> | ✅<br /> ✅<br /> ✅<br /> ✅<br /> ✅<br /> | <a href="./Week24">바로가기</a> |
+| ------- | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ | :------------------------------------------------------------: | :-----------------------------: | ------------------------------- |
+| Week 25 | 23.06.02<br /> | 이분탐색 |  [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062)<br/>  | lv.3 <br/> | ✅<br /> | <a href="./Week25">바로가기</a> |
