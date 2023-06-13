@@ -2,7 +2,7 @@
 # 💯 알고리즘 및 코딩 테스트 문제 풀이 [Notion](https://www.notion.so/be4f5696e32f4ee8bb33b95f90ce7943) 📝
 - 백준, 프로그래머스의 알고리즘 문제 풀이 오픈 소스를 제공합니다.
 
-### ✍ 119 Problems Solved
+### ✍ 121 Problems Solved
 
 
 ## 👩‍👦‍👦 **스터디 멤버**
@@ -42,7 +42,7 @@
 
 | 27 주차    | 날짜                                                         | 기출 유형           | 문제명                                                       | 난이도                                                       | 풀이여부                      | 풀이 링크                       |
 | ------- | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ | :------------------------------------------------------------: | :-----------------------------: | ------------------------------- |
-| Week 27 | 23.06.12<br /> 23.06.13<br /> 23.06.14<br /> 23.06.15<br /> 23.06.16<br /> | 완전탐색, DP, 깊이/너비탐색, 구현 |  [번데기](https://www.acmicpc.net/problem/15721)<br/> [🐜 기적의 매매법 🐜](https://www.acmicpc.net/problem/20546)<br/> [계단 오르기](https://www.acmicpc.net/problem/2579)<br/> [그룹 단어 체커](https://www.acmicpc.net/problem/1316)<br/> [바이러스](https://www.acmicpc.net/problem/2606)<br/>  | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> <br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/><br/> | 🟩<br /> 🟩<br /> 🟩<br /> 🟩<br /> 🟩<br /> | <a href="./Week27">바로가기</a> |
+| Week 27 | 23.06.12<br /> 23.06.13<br /> 23.06.14<br /> 23.06.15<br /> 23.06.16<br /> | 완전탐색, DP, 깊이/너비탐색, 구현 |  [번데기](https://www.acmicpc.net/problem/15721)<br/> [🐜 기적의 매매법 🐜](https://www.acmicpc.net/problem/20546)<br/> [계단 오르기](https://www.acmicpc.net/problem/2579)<br/> [그룹 단어 체커](https://www.acmicpc.net/problem/1316)<br/> [바이러스](https://www.acmicpc.net/problem/2606)<br/>  | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> <br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/><br/> | ✅<br /> ✅<br /> 🟩<br /> 🟩<br /> 🟩<br /> | <a href="./Week27">바로가기</a> |
 
 
 <br />
