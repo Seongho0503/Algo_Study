@@ -2,7 +2,7 @@
 # 💯 알고리즘 및 코딩 테스트 문제 풀이 [Notion](https://www.notion.so/be4f5696e32f4ee8bb33b95f90ce7943) 📝
 - 백준, 프로그래머스의 알고리즘 문제 풀이 오픈 소스를 제공합니다.
 
-### ✍ 124 Problems Solved
+### ✍ 126 Problems Solved
 
 
 ## 👩‍👦‍👦 **스터디 멤버**
@@ -42,7 +42,7 @@
 
 | 28 주차    | 날짜                                                         | 기출 유형           | 문제명                                                       | 난이도                                                       | 풀이여부                      | 풀이 링크                       |
 | ------- | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ | :------------------------------------------------------------: | :-----------------------------: | ------------------------------- |
-| Week 28 | 23.06.19<br /> 23.06.20<br /> 23.06.21<br /> 23.06.22<br /> 23.06.23<br /> | 완전탐색, DP, 깊이/너비탐색, 구현 |  [숫자 야구](https://www.acmicpc.net/problem/2503)<br/> [왕복](https://www.acmicpc.net/problem/18311)<br/> [이친수](https://www.acmicpc.net/problem/2193)<br/> [할아버지는 유명해!](https://www.acmicpc.net/problem/5766)<br/> [반복수열](https://www.acmicpc.net/problem/2331)<br/>   | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/><br/> | 🟩<br /> 🟩<br /> 🟩<br /> 🟩<br /> 🟩<br /> | <a href="./Week28">바로가기</a> |
+| Week 28 | 23.06.19<br /> 23.06.20<br /> 23.06.21<br /> 23.06.22<br /> 23.06.23<br /> | 완전탐색, DP, 깊이/너비탐색, 구현 |  [숫자 야구](https://www.acmicpc.net/problem/2503)<br/> [왕복](https://www.acmicpc.net/problem/18311)<br/> [이친수](https://www.acmicpc.net/problem/2193)<br/> [할아버지는 유명해!](https://www.acmicpc.net/problem/5766)<br/> [반복수열](https://www.acmicpc.net/problem/2331)<br/>   | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/><br/> | ✅<br /> ✅<br /> 🟩<br /> 🟩<br /> 🟩<br /> | <a href="./Week28">바로가기</a> |
 
 
 <br />
