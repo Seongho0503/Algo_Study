@@ -11,7 +11,7 @@ https://www.acmicpc.net/problem/10994
 
 ```java
 /**
- * 메모리  :  MB
+ * 메모리  :  KB
  * 시간   :  ms
  */
 ```
@@ -20,7 +20,7 @@ https://www.acmicpc.net/problem/10994
 
 ```js
 /**
- * 메모리  :  MB
+ * 메모리  :  KB
  * 시간   :  ms
  */
 ```
@@ -30,7 +30,7 @@ https://www.acmicpc.net/problem/10994
 
 ```python
 '''
-* 메모리 :  MB
+* 메모리 :  KB
 * 시간 :  ms
 '''
 ```
