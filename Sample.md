@@ -1,5 +1,5 @@
-#   [2023.06.28] BOJ_S3_9095_1, 2, 3 더하기
-https://www.acmicpc.net/problem/9095
+#   [2023.06.29] BOJ_S4_10994_별 찍기 - 19
+https://www.acmicpc.net/problem/10994
 
 <접근법>
 
@@ -11,7 +11,7 @@ https://www.acmicpc.net/problem/9095
 
 ```java
 /**
- * 메모리  :  MB
+ * 메모리  :  KB
  * 시간   :  ms
  */
 ```
@@ -20,7 +20,7 @@ https://www.acmicpc.net/problem/9095
 
 ```js
 /**
- * 메모리  :  MB
+ * 메모리  :  KB
  * 시간   :  ms
  */
 ```
@@ -30,7 +30,7 @@ https://www.acmicpc.net/problem/9095
 
 ```python
 '''
-* 메모리 :  MB
+* 메모리 :  KB
 * 시간 :  ms
 '''
 ```
