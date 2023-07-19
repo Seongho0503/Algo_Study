@@ -2,7 +2,7 @@
 # 💯 알고리즘 및 코딩 테스트 문제 풀이 [Notion](https://www.notion.so/be4f5696e32f4ee8bb33b95f90ce7943) 📝
 - 백준, 프로그래머스의 알고리즘 문제 풀이 오픈 소스를 제공합니다.
 
-### ✍ 144 Problems Solved
+### ✍ 146 Problems Solved
 
 
 ## 👩‍👦‍👦 **스터디 멤버**
