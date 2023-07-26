@@ -2,7 +2,7 @@
 # 💯 알고리즘 및 코딩 테스트 문제 풀이 [Notion](https://www.notion.so/be4f5696e32f4ee8bb33b95f90ce7943) 📝
 - 백준, 프로그래머스의 알고리즘 문제 풀이 오픈 소스를 제공합니다.
 
-### ✍ 146 Problems Solved
+### ✍ 148 Problems Solved
 
 
 ## 👩‍👦‍👦 **스터디 멤버**
@@ -42,7 +42,7 @@
 
 | 33 주차    | 날짜                                                         | 기출 유형           | 문제명                                                       | 난이도                                                       | 풀이여부                      | 풀이 링크                       |
 | ------- | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ | :------------------------------------------------------------: | :-----------------------------: | ------------------------------- |
-| Week 33 | 23.07.24<br /> 23.07.25<br /> 23.07.26<br /> 23.07.27<br /> 23.07.28<br /> | 완전탐색, DP, 깊이/너비탐색, 구현 | [투자의 귀재 배주형](https://www.acmicpc.net/problem/19947)<br/> [기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787)<br/> [제곱수의 합](https://www.acmicpc.net/problem/1699)<br/> [단축키 지정](https://www.acmicpc.net/problem/1283)<br/> [미로 탐색](https://www.acmicpc.net/problem/2178)<br/> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> <br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/><br/> | 🟩<br /> 🟩<br /> 🟩<br /> 🟩<br /> 🟩<br /> | <a href="./Week33">바로가기</a> |
+| Week 33 | 23.07.24<br /> 23.07.25<br /> 23.07.26<br /> 23.07.27<br /> 23.07.28<br /> | 완전탐색, DP, 깊이/너비탐색, 구현 | [투자의 귀재 배주형](https://www.acmicpc.net/problem/19947)<br/> [기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787)<br/> [제곱수의 합](https://www.acmicpc.net/problem/1699)<br/> [단축키 지정](https://www.acmicpc.net/problem/1283)<br/> [미로 탐색](https://www.acmicpc.net/problem/2178)<br/> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> <br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/><br/> | ✅<br /> ✅<br /> 🟩<br /> 🟩<br /> 🟩<br /> | <a href="./Week33">바로가기</a> |
 
 
 <br />
