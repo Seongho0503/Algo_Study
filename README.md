@@ -2,7 +2,7 @@
 # 💯 알고리즘 및 코딩 테스트 문제 풀이 [Notion](https://www.notion.so/be4f5696e32f4ee8bb33b95f90ce7943) 📝
 - 백준, 프로그래머스의 알고리즘 문제 풀이 오픈 소스를 제공합니다.
 
-### ✍ 150 Problems Solved
+### ✍ 152 Problems Solved
 
 
 ## 👩‍👦‍👦 **스터디 멤버**
@@ -42,7 +42,7 @@
 
 | 34 주차    | 날짜                                                         | 기출 유형           | 문제명                                                       | 난이도                                                       | 풀이여부                      | 풀이 링크                       |
 | ------- | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ | :------------------------------------------------------------: | :-----------------------------: | ------------------------------- |
-| Week 34 | 23.07.31<br /> 23.08.01<br /> 23.08.02<br /> 23.08.03<br /> 23.08.04<br /> | 완전탐색, DP, 깊이/너비탐색, 구현 | [DNA](https://www.acmicpc.net/problem/1969)<br/> [유성](https://www.acmicpc.net/problem/10703)<br/> [동물원](https://www.acmicpc.net/problem/1309)<br/> [소가 정보섬에 올라온 이유](https://www.acmicpc.net/problem/17128)<br/> [단지번호붙이기](https://www.acmicpc.net/problem/2667)<br/> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/><br/> | 🟩<br /> 🟩<br /> 🟩<br /> 🟩<br /> 🟩<br /> | <a href="./Week34">바로가기</a> |
+| Week 34 | 23.07.31<br /> 23.08.01<br /> 23.08.02<br /> 23.08.03<br /> 23.08.04<br /> | 완전탐색, DP, 깊이/너비탐색, 구현 | [DNA](https://www.acmicpc.net/problem/1969)<br/> [유성](https://www.acmicpc.net/problem/10703)<br/> [동물원](https://www.acmicpc.net/problem/1309)<br/> [소가 정보섬에 올라온 이유](https://www.acmicpc.net/problem/17128)<br/> [단지번호붙이기](https://www.acmicpc.net/problem/2667)<br/> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/><br/> | ✅<br /> ✅<br /> 🟩<br /> 🟩<br /> 🟩<br /> | <a href="./Week34">바로가기</a> |
 
 
 <br />
