@@ -42,7 +42,7 @@
 
 | 36 주차    | 날짜                                                         | 기출 유형           | 문제명                                                       | 난이도                                                       | 풀이여부                      | 풀이 링크                       |
 | ------- | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ | :------------------------------------------------------------: | :-----------------------------: | ------------------------------- |
-| Week 36 | 23.08.16<br /> 23.08.17<br /> 23.08.18<br /> | DP, 깊이/너비탐색, 구현 | []()<br/> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/><br/> | 🟩<br /> 🟩<br /> 🟩<br /> | <a href="./Week36">바로가기</a> |
+| Week 36 | 23.08.16<br /> 23.08.17<br /> 23.08.18<br /> | DP, 깊이/너비탐색, 구현 | [스티커](https://www.acmicpc.net/problem/9465)<br/> [셀프 넘버](https://www.acmicpc.net/problem/4673)<br/> [숨바꼭질](https://www.acmicpc.net/problem/1697)<br/> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/><br/> | 🟩<br /> 🟩<br /> 🟩<br /> | <a href="./Week36">바로가기</a> |
 
 
 <br />
