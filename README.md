@@ -42,7 +42,7 @@
 
 | 38 주차    | 날짜                                                         | 기출 유형           | 문제명                                                       | 난이도                                                       | 풀이여부                      | 풀이 링크                       |
 | ------- | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ | :------------------------------------------------------------: | :-----------------------------: | ------------------------------- |
-| Week 39 | 23.09.04<br /> 23.09.05<br /> | 완전탐색, DP, 깊이/너비탐색, 구현 | []()<br/> []()<br/> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/><br/> | 🟩<br /> 🟩<br /> | <a href="./Week39">바로가기</a> |
+| Week 39 | 23.09.04<br /> 23.09.05<br /> | 완전탐색, DP, 깊이/너비탐색, 구현 | [치킨치킨치킨](https://www.acmicpc.net/problem/16439)<br/> [방 번호](https://www.acmicpc.net/problem/1475)<br/> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/><br/> | 🟩<br /> 🟩<br /> | <a href="./Week39">바로가기</a> |
 
 
 <br />
