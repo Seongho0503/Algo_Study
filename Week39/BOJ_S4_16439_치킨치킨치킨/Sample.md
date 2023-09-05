@@ -4,7 +4,6 @@ https://www.acmicpc.net/problem/16439
 <접근법>
 
 ```
-
 ```
 
 
