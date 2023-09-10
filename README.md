@@ -42,7 +42,7 @@
 
 | 38 주차    | 날짜                                                         | 기출 유형           | 문제명                                                       | 난이도                                                       | 풀이여부                      | 풀이 링크                       |
 | ------- | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ | :------------------------------------------------------------: | :-----------------------------: | ------------------------------- |
-| Week 40 | 23.09.11<br /> 23.09.12<br /> 23.09.13<br /> 23.09.14<br /> 23.09.15<br /> | 완전탐색, DP, 깊이/너비탐색, 구현 | []()<br/> []()<br/> []()<br/> []()<br/> []()<br/> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/><br/> | 🟩<br /> 🟩<br /> 🟩<br /> 🟩<br /> 🟩<br /> | <a href="./Week40">바로가기</a> |
+| Week 40 | 23.09.11<br /> 23.09.12<br /> | 깊이/너비탐색, 구현 | [섬의 개수](https://www.acmicpc.net/problem/4963)<br/> [십자카드 문제](https://www.acmicpc.net/problem/2659)<br/> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/><br/> | 🟩<br /> 🟩<br /> | <a href="./Week40">바로가기</a> |
 
 
 <br />
