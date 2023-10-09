@@ -2,7 +2,7 @@
 # 💯 알고리즘 및 코딩 테스트 문제 풀이 [Notion](https://www.notion.so/be4f5696e32f4ee8bb33b95f90ce7943) 📝
 - 백준, 프로그래머스의 알고리즘 문제 풀이 오픈 소스를 제공합니다.
 
-### ✍ 173 Problems Solved
+### ✍ 175 Problems Solved
 
 
 ## 👩‍👦‍👦 **스터디 멤버**
@@ -40,9 +40,9 @@
 
 
 
-| 42 주차    | 날짜                                                         | 기출 유형           | 문제명                                                       | 난이도                                                       | 풀이여부                      | 풀이 링크                       |
+| 43 주차    | 날짜                                                         | 기출 유형           | 문제명                                                       | 난이도                                                       | 풀이여부                      | 풀이 링크                       |
 | ------- | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ | :------------------------------------------------------------: | :-----------------------------: | ------------------------------- |
-| Week 42 | 23.09.25<br /> 23.09.26<br /> | 완전탐색, DP, 깊이/너비탐색, 구현 | [후보 추천하기](https://www.acmicpc.net/problem/1713)<br/> [경로 찾기](https://www.acmicpc.net/problem/11403)<br/> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/><br/> | 🟩<br /> 🟩<br /> | <a href="./Week42">바로가기</a> |
+| Week 43 | 23.10.09<br /> 23.10.10<br /> | 깊이/너비탐색 | [섬의 개수](https://www.acmicpc.net/problem/4963)<br/> [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)<br/> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/><br/> | 🟩<br /> 🟩<br /> | <a href="./Week42">바로가기</a> |
 
 
 <br />
@@ -190,3 +190,4 @@ git commit -m "[BOJ] 1874 / 실버3 / 40분 / 권성호"
 | Week 39 | 23.09.04<br /> 23.09.05<br /> | 완전탐색, DP, 깊이/너비탐색, 구현 | [치킨치킨치킨](https://www.acmicpc.net/problem/16439)<br/> [방 번호](https://www.acmicpc.net/problem/1475)<br/> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/><br/> | ✅<br /> ✅<br /> | <a href="./Week39">바로가기</a> |
 | Week 40 | 23.09.11<br /> 23.09.12<br /> | 깊이/너비탐색, 구현 | [섬의 개수](https://www.acmicpc.net/problem/4963)<br/> [십자카드 문제](https://www.acmicpc.net/problem/2659)<br/> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/><br/> | ✅<br /> ✅<br /> | <a href="./Week40">바로가기</a> |
 | Week 41 | 23.09.18<br /> 23.09.19<br /> 23.09.20<br /> 23.09.21<br /> 23.09.22<br /> | 완전탐색, DP, 깊이/너비탐색, 구현 | [전공책](https://www.acmicpc.net/problem/16508)<br/> [순서쌍의 곱의 합](https://www.acmicpc.net/problem/13900)<br/> [다이아몬드](https://www.acmicpc.net/problem/10571)<br/> [부당한 퍼즐](https://www.acmicpc.net/problem/15501)<br/> [기타 레슨](https://www.acmicpc.net/problem/2343)<br/> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/><br/> | ✅<br /> ✅<br /> ✅<br /> ✅<br /> 🟩<br /> | <a href="./Week41">바로가기</a> |
+| Week 42 | 23.09.25<br /> 23.09.26<br /> | 완전탐색, DP, 깊이/너비탐색, 구현 | [후보 추천하기](https://www.acmicpc.net/problem/1713)<br/> [경로 찾기](https://www.acmicpc.net/problem/11403)<br/> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/><br/> | ✅<br /> ✅<br /> | <a href="./Week42">바로가기</a> |
