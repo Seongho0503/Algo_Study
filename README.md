@@ -42,7 +42,7 @@
 
 | 43 주차    | 날짜                                                         | 기출 유형           | 문제명                                                       | 난이도                                                       | 풀이여부                      | 풀이 링크                       |
 | ------- | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ | :------------------------------------------------------------: | :-----------------------------: | ------------------------------- |
-| Week 43 | 23.10.09<br /> 23.10.10<br /> | 깊이/너비탐색 | [섬의 개수](https://www.acmicpc.net/problem/4963)<br/> [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)<br/> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/><br/> | 🟩<br /> 🟩<br /> | <a href="./Week42">바로가기</a> |
+| Week 43 | 23.10.09<br /> 23.10.10<br /> | 완전탐색, 깊이/너비탐색 | [N과 M (9)](https://www.acmicpc.net/problem/15663)<br/> [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)<br/> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/><br/> | 🟩<br /> 🟩<br /> | <a href="./Week42">바로가기</a> |
 
 
 <br />
